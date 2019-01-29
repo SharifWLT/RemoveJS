@@ -1,5 +1,5 @@
 
 function removecolor() {
     var sel = document.getElementById("colorSelect");
-sel.remove(1);
+sel.remove(0);
 }
